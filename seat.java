@@ -1,5 +1,7 @@
 /*
-seat(좌석)
+Algorithm JOBS Extra course 1
+
+5. 자리배정
 문제 요약 : 나선형배열 
 어떤게 줄어들고, 늘어나는지 파악 ! 
 */
