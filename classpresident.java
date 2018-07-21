@@ -1,3 +1,8 @@
+/*
+Algorithm JOBS Extra course 2
+7. 임시 반장 정하기
+문제 풀이 : 완전 탐색 - 같은반이였던적 있으면 1 / 아님 0
+*/
 import java.util.Scanner;
 
 public class classpresident {
