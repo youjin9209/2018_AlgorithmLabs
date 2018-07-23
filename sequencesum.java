@@ -1,3 +1,10 @@
+/*
+Algorithm JOBS Extra course 3
+6. 준혁이의 수열 
+문제 : 두항의 합만 주어진걸로 각 항의 값 구하기 
+풀이 : 행끼리 더해
+주의 : 나누는 수 규칙찾아서 일반항으로 넣기 ! - 하드코딩 노노 
+*/
 import java.util.Scanner;
 
 public class sequencesum {
