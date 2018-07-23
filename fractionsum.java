@@ -1,3 +1,12 @@
+/*
+Algorithm JOBS Extra course 3
+11. 분수합
+문제 : 두 분수의 합을 기약분수로 만들기
+풀이 : if 가 아니라 while
+주의할 예제
+1 2
+1 2
+*/
 import java.util.Scanner;
 
 public class fractionsum {
