@@ -1,3 +1,9 @@
+/*
+Algorithm JOBS Extra course 3
+13. 소인수분해 
+문제 : 소인수분해하기
+풀이 : 소수 리스트 굳이 구할 필요 없음 
+*/
 import java.util.Scanner;
 
 public class pfactorization {
