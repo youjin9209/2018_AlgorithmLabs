@@ -1,3 +1,9 @@
+/*
+Algorithm JOBS Extra course 4
+2. mountain 
+문제 : 봉우리 수열 출력
+풀이 : 재귀함수 - 반복되는거 찾고 / 반등하는 지점: 맨 
+*/
 import java.util.Scanner;
 
 public class mountain {
