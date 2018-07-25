@@ -1,3 +1,10 @@
+/*
+Algorithm JOBS Extra course 3
+10. 가로수
+문제 : 모두 같은 간격으로 최소수로 심기 
+해결 : (1) dx (간격)의 GCD 구하기   (2) 총 간격에서 GCD 나누고 + 1 - 원래개수
+주의 : dx의 GCD 구할 때 dx의 min에서 하나씩 까내려가면 된다  - Time limit 피하는 방법 
+*/
 import java.util.Arrays;
 import java.util.Scanner;
 
