@@ -1,3 +1,8 @@
+/*
+Algorithm JOBS Extra course 3
+14. 베르트랑-체비쇼프 정리
+문제 : 에라토스테네스의 체 사용해서 소수 구하기
+*/
 import java.util.Scanner;
 
 public class chebyshevtheo {
