@@ -1,3 +1,9 @@
+/*
+Algorithm JOBS Extra course 4
+6. 단지번호 붙이기
+문제 : 단지 개수 출력 및 단지에 해당하는 집 개수 오름차순으로 출력 
+풀이 : bfs 
+*/
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
