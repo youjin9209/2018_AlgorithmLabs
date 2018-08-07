@@ -30,9 +30,9 @@ N(1~15)마리의 소들을 순서대로 세 워놓은 후, 각 소들 사이에 
 import java.util.Scanner;
 
 public class dessert {
-	static long[] arr;
+    static long[] arr;
     static int N;
-	static int totalCnt;
+    static int totalCnt;
     static char[] op;
     static char[] resultOp;
     public static void print (char[] resultOp) {
