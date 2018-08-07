@@ -38,7 +38,7 @@ public class dessert {
     public static void print (char[] resultOp) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < N-1; i++) {
-            sb.append(i+1).append(' ').append(resultOp[i]).append(' ');
+            sb.append(i+1 + " " + resultOp[i] +" ");
         }
         sb.append(N);
         if (totalCnt <= 19)
