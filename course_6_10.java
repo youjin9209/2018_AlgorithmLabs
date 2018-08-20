@@ -1,6 +1,8 @@
 /*
-해결 : 4등분한 시작좌표 (startx, y, end x, y) 를 Queue에 넣어준다.
+해결 : tree 의 level별로 출력해주는 거니까 BFS !
+- 4등분한 시작좌표 (startx, starty, endx, endy) 를 Queue에 넣어준다.
 - 해당 영역에서 모든 좌표가 같은지, 아닌지를 판단하는거는 시작좌표를 하나 저장해놓고 일일히 for문으로 비교하면 됨 ! 
+- 4등부하는 길이 : endx - startx 겠지 !
 - 다르면 4등분한거 넣어주고
 - 다 같으면 시키는대로 append 
 */
