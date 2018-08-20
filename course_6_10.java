@@ -5,6 +5,7 @@
 - 4등부하는 길이 : endx - startx 겠지 !
 - 다르면 4등분한거 넣어주고
 - 다 같으면 시키는대로 append 
+- 2진수 -> 16진수 : string을 4개씩 잘라서 2진수로 나타낸다음에 붙인다 
 */
 import java.util.LinkedList;
 import java.util.Queue;
