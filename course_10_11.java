@@ -1,6 +1,16 @@
 /*
 팰린드롬 만들기 
 - 최소 개수로 추가 
+
+예제 입력
+adcba
+예제 출력
+2
+
+예제 입력
+abccbdbac
+예제 출력
+3
 */
 import java.util.Arrays;
 import java.util.Scanner;
